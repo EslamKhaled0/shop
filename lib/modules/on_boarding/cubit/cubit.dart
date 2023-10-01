@@ -14,7 +14,7 @@ class OnBoardingCubit extends Cubit<OnBoardingStates> {
     BoardingModel(
       title: 'easy',
       image: 'assets/on_boarding_assets/6859183.jpg',
-      body: 'enjoy with flexible ui',
+      body: 'enjoy with flexible ui and easy to use',
     ),
     BoardingModel(
       title: 'discounts',
